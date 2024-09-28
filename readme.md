@@ -5,3 +5,6 @@ Hello! I'm a passionate Developer with a keen focus on Java and Angular. My jour
 
 ## Contact me
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies, also i'm behavior in leaderdhip from disc's clours and scrum master certified.
